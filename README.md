@@ -1,6 +1,6 @@
 ## Hi, I'm Sharan 🌟
 
-🧠 Computer Science student <br/>
+🧠 Computer Science student. <br/>
 💻 I build websites, and I'm diving into mobile apps next <br/>
 🤖 Working with AI/ML and exploring automation & robotics <br/>
 🚀 Participated in 4+ hackathons — building, learning, growing <br/>
